@@ -101,11 +101,6 @@ s:hover {
   background-color: crimson;
   color:white;
 }
-
-/*a:hover {
-  background-color:indigo;
-  color:greenyellow;
-}*/
 h2{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
@@ -161,8 +156,6 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
-  
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #00746B;
     color:black;
